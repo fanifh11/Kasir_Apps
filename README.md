@@ -16,13 +16,15 @@ https://github.com/fanifh11/Tugas-CRUD-Android-Laravel.git
 ```
 #### 2. Run Laravel hingga aplikasi di emulator
 1. Buka XAMPP dan jalankan APACHE server dan MYSQL
-2. Kemudian buka project laravel yang bernama KasirLaravel pada code editor 
-3. Setelah itu jalankan server pada terminal visual studio code dengan cara: php artisans serve
-4. Buka project Android Studio
-5. Buka java/com/example/kasirapp/rest/ApiConnection.java
-6. Cari pada baris 9 yang bertuliskan: public static final String BASE_URL = "http://alamat ip anda/KasirLaravel/public/api/"; 
-7. Jalankan emulator dan running.
-8. Selesai
+2. Buka PHPMyAdmin
+3. Import database ke PHPMyAdmin (dbtokobuku.sql)
+4. Kemudian buka project laravel yang bernama KasirLaravel pada code editor 
+5. Setelah itu jalankan server pada terminal visual studio code dengan cara: php artisans serve
+6. Buka project Android Studio
+7. Buka java/com/example/kasirapp/rest/ApiConnection.java
+8. Cari pada baris 9 yang bertuliskan: public static final String BASE_URL = "http://alamat ip anda/KasirLaravel/public/api/"; 
+9. Jalankan emulator dan running.
+10. Selesai
 
 
 

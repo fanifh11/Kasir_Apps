@@ -1,4 +1,4 @@
-# TUGAS CRUD Android Studio dengan Database MYSQL
+# Aplikasi Kasir Android dengan Backend Laravel
 
 ## Syarat
 1. Android Studio

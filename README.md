@@ -12,7 +12,7 @@ Cara mengoperasikan :
 #### 1. Clone Project
 
 ```bash
-https://github.com/fanifh11/Tugas-CRUD-Android-Laravel.git
+https://github.com/fanifh11/Kasir_Apps.git
 ```
 #### 2. Run Laravel hingga aplikasi di emulator
 1. Buka XAMPP dan jalankan APACHE server dan MYSQL
